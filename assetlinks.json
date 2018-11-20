@@ -1,1 +1,5 @@
-每日安排
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.rockets.biubiu",
+               "sha256_cert_fingerprints": ["8B:A6:6D:86:DA:8C:4F:0C:0D:EE:6F:CB:A2:E6:8C:81:BA:B5:1F:61:58:37:72:EC:55:CA:BD:3D:00:4C:0A:47"] }
+}]
