@@ -1,5 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "com.rockets.biubiu",
-               "sha256_cert_fingerprints": ["8B:A6:6D:86:DA:8C:4F:0C:0D:EE:6F:CB:A2:E6:8C:81:BA:B5:1F:61:58:37:72:EC:55:CA:BD:3D:00:4C:0A:47"] }
+               "sha256_cert_fingerprints": ["D8:92:74:87:06:9D:32:53:A3:98:95:CE:C8:73:DE:DE:B3:84:67:49:7F:50:96:63:1A:5F:68:FD:0B:2C:0B:23"] }
 }]
